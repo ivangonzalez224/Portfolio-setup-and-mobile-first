@@ -11,7 +11,7 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - Prerequisites](#prerequisites)
+  - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
