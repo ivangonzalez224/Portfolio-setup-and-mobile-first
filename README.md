@@ -1,4 +1,7 @@
-<a name="readme-top"></a>
+<div align="center"> 
+  <h3><b>Portfolio</b></h3>
+  <h5>Ivan Gonzalez</h5> 
+</div>
 
 # 📗 Table of Contents
 
@@ -8,24 +11,29 @@
     - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
+  - Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
 # 📖 Portfolio: setup and mobile first <a name="about-project"></a>
 
-**Portfolio: setup and mobile first** is an example to build a personal portfolio site and to monstrate the ability to parse a Figma design, and to use Flexbox.
+**Portfolio: setup and mobile first** is an example to build a personal portfolio site and to demonstrate the ability to parse a Figma design, and to use Flexbox.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-In this project we use HTML & CSS and flexbox in order to lay out the elements on the page.
+In this project we use HTML & CSS and flexbox in order to lay out the elements on the page to build a mobile webside.
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/es/docs/Web/JavaScript">Javascript</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/HTML">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/es/docs/Web/CSS">CSS</a></li>
   </ul>
 </details>
 
@@ -39,7 +47,7 @@ In this project we use HTML & CSS and flexbox in order to lay out the elements o
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-In this project we use flexbox to build a responsive personal portfolio site.
+In this project we use flexbox to build a responsive personal portfolio for mobile website.
 
 ### Setup
 
@@ -51,7 +59,27 @@ Clone this repository to your desired folder:
   
   git clone https://github.com/ivangonzalez224/Portfolio-setup-and-mobile-first.git
   
-  cd Hello-world
+  cd Portfolio-setup-and-mobile-first.git
+
+### Prerequisites
+
+In order to run this project you need:
+
+1. Git.
+2. Visual Studio Code or another code editor.
+3. Browser.  
+  
+  
+### Install
+
+This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
+
+
+### Usage
+
+To run the project, do the following:
+- After cloning the repository to your local computer, open the folder in a code editor.
+- Find the path of the index.html file and open it in your preferred browser.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,5 +110,11 @@ If you like this project give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank Micoverse for providing the material to develop this project.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
