@@ -15,7 +15,7 @@
 
 # 📖 Portfolio: setup and mobile first <a name="about-project"></a>
 
-**Portfolio: setup and mobile first** is an example to build a personal portfolio site and to monstrate the ability to parse a Figma design, and to use Flexbo.
+**Portfolio: setup and mobile first** is an example to build a personal portfolio site and to monstrate the ability to parse a Figma design, and to use Flexbox.
 
 ## 🛠 Built With <a name="built-with"></a>
 
