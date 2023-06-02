@@ -26,6 +26,10 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
+1. HTML
+2. CSS
+3. Linters
+
 ### Tech Stack <a name="tech-stack"></a>
 
 In this project we use HTML & CSS and flexbox in order to lay out the elements on the page to build a mobile webside.
@@ -39,9 +43,9 @@ In this project we use HTML & CSS and flexbox in order to lay out the elements o
 
 ### Key Features <a name="key-features"></a>
 
-- **Adding a professional README.md file**
-- **Using flexbox in order to lay out the elements on the page**
-- **Set up a linter for the project**
+- Add a professional README.md file
+- Use flexbox in order to lay out the elements on the page
+- Set up a linter for the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -55,11 +59,11 @@ To get a local copy, follow these steps.
 
 Clone this repository to your desired folder:
 
+  ```sh
   cd my-folder
-  
   git clone https://github.com/ivangonzalez224/Portfolio-setup-and-mobile-first.git
-  
-  cd Portfolio-setup-and-mobile-first.git
+  code . (To open in Vscode)
+```
 
 ### Prerequisites
 
@@ -73,7 +77,11 @@ In order to run this project you need:
 ### Install
 
 This project does not require installation. Just clone the repository to your local machine and open the HTML file in a browser.
-
+Even though, for general purposes, Install this project with:
+```sh
+  cd my-folder
+  npm install
+```
 
 ### Usage
 
@@ -109,7 +117,7 @@ If you like this project give it a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Micoverse for providing the material to develop this project.
+I would like to thank Micoverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
